@@ -8,6 +8,7 @@
 
 # Input : 0
 # Output : Zero
+
 def numIdentify(no):
     if (no == 0):
         print("Zero")
@@ -15,7 +16,6 @@ def numIdentify(no):
         print("Negative Number")
     else :
         print("Positive number")
-
 
 def main():
     print("Enter the number : ")

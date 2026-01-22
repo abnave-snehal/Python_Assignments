@@ -7,7 +7,6 @@ def even():
         print(i, end=" ")
 
 def main():
-
     even()
 
 if __name__ == "__main__":
