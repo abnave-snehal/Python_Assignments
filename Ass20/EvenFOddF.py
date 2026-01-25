@@ -1,4 +1,4 @@
-# 2. Design a Python application that creates two threads named EvenFactor and OddFactor.
+# Design a Python application that creates two threads named EvenFactor and OddFactor.
 # Both threads should accept one integer number as a parameter.
 # The EvenFactor thread should:
 # Identify all even factors of the given number.

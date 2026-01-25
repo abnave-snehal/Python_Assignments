@@ -1,4 +1,4 @@
-# 4. Design a Python application that creates three threads named Small, Capital, and Digits.
+# Design a Python application that creates three threads named Small, Capital, and Digits.
 # All threads should accept a string as input.
 # The Small thread should:
 # Count and display the number of lowercase characters.

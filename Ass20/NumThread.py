@@ -1,4 +1,4 @@
-# 5. Design a Python application that creates two threads named Thread1 and Thread2.
+# Design a Python application that creates two threads named Thread1 and Thread2.
 # Thread1 should:
 # Display numbers from 1 to 50.
 
