@@ -10,13 +10,20 @@
 
 def main():
     fileName=input("Enter the file name : ")
-    fobj=open(fileName,"r")
 
-    count=0
+    try:
+        fobj=open(fileName,"r")
 
-    for line in fobj:
-        count=count+1
-    print("Total lines are : ",count)
+        count=0
+        for line in fobj:
+            count=count+1
+
+        fobj.close()
+
+        print("Total lines are : ",count)
+    
+    except FileNotFoundError:
+        print("Invalid file name.")
 
 if __name__ == "__main__":
     main()
