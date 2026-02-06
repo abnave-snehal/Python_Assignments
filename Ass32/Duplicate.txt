@@ -1,0 +1,3 @@
+demo\B.txt
+demo\C.txt
+Total deleted file : 2
