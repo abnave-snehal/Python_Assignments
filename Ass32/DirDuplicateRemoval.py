@@ -2,8 +2,7 @@
 # files from that directory. Write names of duplicate files from that directory 
 # into log file named as Log.txt. Log.txt file should be created into current directory.
 
-# Usage :
-# DirectoryDuplicateRemoval.py "Demo"
+# Usage : DirectoryDuplicateRemoval.py "Demo"
 
 # Demo is name of directory.
 import sys
