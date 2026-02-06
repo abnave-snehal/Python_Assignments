@@ -27,9 +27,9 @@ def CalculateChecksum(path):
 def DirectoryCheckSum(dirName):
     for folderName,subFolder,fileName in os.walk(dirName):
         for fName in fileName:
-            filePath=os.path.join(folderName,fName)
+            fName=os.path.join(folderName,fName)
 
-            checksum=CalculateChecksum(filePath)
+            checksum=CalculateChecksum(fName)
 
             print(fName, " -> ", checksum)
 
