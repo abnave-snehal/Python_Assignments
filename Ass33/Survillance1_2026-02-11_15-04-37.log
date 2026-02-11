@@ -1,0 +1,1439 @@
+__________________________________________________
+---------- Platform Survillance System ----------
+Log created at : Wed Feb 11 15:04:37 2026
+__________________________________________________
+
+---------- System Report ----------
+Process Name : System Idle Process
+Process ID(PID) : 0
+Number of thread created by that process : 24
+
+__________________________________________________
+---------- System Report ----------
+Process Name : System
+Process ID(PID) : 4
+Number of thread created by that process : 230
+
+__________________________________________________
+---------- System Report ----------
+Process Name : 
+Process ID(PID) : 140
+Number of thread created by that process : 0
+
+__________________________________________________
+---------- System Report ----------
+Process Name : Registry
+Process ID(PID) : 184
+Number of thread created by that process : 4
+
+__________________________________________________
+---------- System Report ----------
+Process Name : RuntimeBroker.exe
+Process ID(PID) : 204
+Number of thread created by that process : 3
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 340
+Number of thread created by that process : 3
+
+__________________________________________________
+---------- System Report ----------
+Process Name : smss.exe
+Process ID(PID) : 572
+Number of thread created by that process : 2
+
+__________________________________________________
+---------- System Report ----------
+Process Name : wininit.exe
+Process ID(PID) : 644
+Number of thread created by that process : 2
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 928
+Number of thread created by that process : 5
+
+__________________________________________________
+---------- System Report ----------
+Process Name : csrss.exe
+Process ID(PID) : 944
+Number of thread created by that process : 13
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 1052
+Number of thread created by that process : 8
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 1080
+Number of thread created by that process : 9
+
+__________________________________________________
+---------- System Report ----------
+Process Name : services.exe
+Process ID(PID) : 1084
+Number of thread created by that process : 11
+
+__________________________________________________
+---------- System Report ----------
+Process Name : LsaIso.exe
+Process ID(PID) : 1104
+Number of thread created by that process : 2
+
+__________________________________________________
+---------- System Report ----------
+Process Name : lsass.exe
+Process ID(PID) : 1112
+Number of thread created by that process : 10
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 1128
+Number of thread created by that process : 6
+
+__________________________________________________
+---------- System Report ----------
+Process Name : IntelCpHDCPSvc.exe
+Process ID(PID) : 1192
+Number of thread created by that process : 3
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 1260
+Number of thread created by that process : 18
+
+__________________________________________________
+---------- System Report ----------
+Process Name : fontdrvhost.exe
+Process ID(PID) : 1300
+Number of thread created by that process : 5
+
+__________________________________________________
+---------- System Report ----------
+Process Name : WUDFHost.exe
+Process ID(PID) : 1336
+Number of thread created by that process : 7
+
+__________________________________________________
+---------- System Report ----------
+Process Name : SearchIndexer.exe
+Process ID(PID) : 1348
+Number of thread created by that process : 15
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 1432
+Number of thread created by that process : 10
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 1476
+Number of thread created by that process : 5
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 1484
+Number of thread created by that process : 4
+
+__________________________________________________
+---------- System Report ----------
+Process Name : ms-teams.exe
+Process ID(PID) : 1600
+Number of thread created by that process : 43
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 1624
+Number of thread created by that process : 7
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 1652
+Number of thread created by that process : 3
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 1676
+Number of thread created by that process : 2
+
+__________________________________________________
+---------- System Report ----------
+Process Name : WmiPrvSE.exe
+Process ID(PID) : 1716
+Number of thread created by that process : 6
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 1784
+Number of thread created by that process : 9
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 1848
+Number of thread created by that process : 5
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 1856
+Number of thread created by that process : 4
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 1864
+Number of thread created by that process : 11
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 1872
+Number of thread created by that process : 7
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 1892
+Number of thread created by that process : 3
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 1948
+Number of thread created by that process : 3
+
+__________________________________________________
+---------- System Report ----------
+Process Name : WmiPrvSE.exe
+Process ID(PID) : 2064
+Number of thread created by that process : 9
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 2088
+Number of thread created by that process : 5
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 2116
+Number of thread created by that process : 11
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 2128
+Number of thread created by that process : 5
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 2136
+Number of thread created by that process : 8
+
+__________________________________________________
+---------- System Report ----------
+Process Name : chrome.exe
+Process ID(PID) : 2236
+Number of thread created by that process : 46
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 2472
+Number of thread created by that process : 3
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 2488
+Number of thread created by that process : 8
+
+__________________________________________________
+---------- System Report ----------
+Process Name : WUDFHost.exe
+Process ID(PID) : 2516
+Number of thread created by that process : 21
+
+__________________________________________________
+---------- System Report ----------
+Process Name : igfxCUIServiceN.exe
+Process ID(PID) : 2656
+Number of thread created by that process : 2
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 2684
+Number of thread created by that process : 5
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 2824
+Number of thread created by that process : 3
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 2856
+Number of thread created by that process : 4
+
+__________________________________________________
+---------- System Report ----------
+Process Name : msedgewebview2.exe
+Process ID(PID) : 2916
+Number of thread created by that process : 23
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 2928
+Number of thread created by that process : 8
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 2964
+Number of thread created by that process : 5
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 2972
+Number of thread created by that process : 5
+
+__________________________________________________
+---------- System Report ----------
+Process Name : ShellHost.exe
+Process ID(PID) : 2988
+Number of thread created by that process : 7
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 3036
+Number of thread created by that process : 3
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 3056
+Number of thread created by that process : 6
+
+__________________________________________________
+---------- System Report ----------
+Process Name : MemCompression
+Process ID(PID) : 3068
+Number of thread created by that process : 50
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 3136
+Number of thread created by that process : 2
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 3152
+Number of thread created by that process : 2
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 3172
+Number of thread created by that process : 8
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 3220
+Number of thread created by that process : 6
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 3232
+Number of thread created by that process : 5
+
+__________________________________________________
+---------- System Report ----------
+Process Name : msedge.exe
+Process ID(PID) : 3244
+Number of thread created by that process : 16
+
+__________________________________________________
+---------- System Report ----------
+Process Name : explorer.exe
+Process ID(PID) : 3352
+Number of thread created by that process : 63
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 3368
+Number of thread created by that process : 5
+
+__________________________________________________
+---------- System Report ----------
+Process Name : chrome.exe
+Process ID(PID) : 3388
+Number of thread created by that process : 19
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 3432
+Number of thread created by that process : 6
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 3468
+Number of thread created by that process : 7
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 3472
+Number of thread created by that process : 23
+
+__________________________________________________
+---------- System Report ----------
+Process Name : msedgewebview2.exe
+Process ID(PID) : 3476
+Number of thread created by that process : 7
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 3520
+Number of thread created by that process : 16
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 3552
+Number of thread created by that process : 5
+
+__________________________________________________
+---------- System Report ----------
+Process Name : spoolsv.exe
+Process ID(PID) : 3684
+Number of thread created by that process : 7
+
+__________________________________________________
+---------- System Report ----------
+Process Name : msedgewebview2.exe
+Process ID(PID) : 3704
+Number of thread created by that process : 21
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 3724
+Number of thread created by that process : 7
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 3732
+Number of thread created by that process : 15
+
+__________________________________________________
+---------- System Report ----------
+Process Name : conhost.exe
+Process ID(PID) : 3760
+Number of thread created by that process : 5
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 3860
+Number of thread created by that process : 6
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 3868
+Number of thread created by that process : 4
+
+__________________________________________________
+---------- System Report ----------
+Process Name : LMS.exe
+Process ID(PID) : 3924
+Number of thread created by that process : 6
+
+__________________________________________________
+---------- System Report ----------
+Process Name : armsvc.exe
+Process ID(PID) : 3944
+Number of thread created by that process : 2
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 3952
+Number of thread created by that process : 12
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 3960
+Number of thread created by that process : 18
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 3968
+Number of thread created by that process : 3
+
+__________________________________________________
+---------- System Report ----------
+Process Name : OfficeClickToRun.exe
+Process ID(PID) : 3976
+Number of thread created by that process : 17
+
+__________________________________________________
+---------- System Report ----------
+Process Name : AnyDesk.exe
+Process ID(PID) : 3984
+Number of thread created by that process : 7
+
+__________________________________________________
+---------- System Report ----------
+Process Name : esif_uf.exe
+Process ID(PID) : 4000
+Number of thread created by that process : 5
+
+__________________________________________________
+---------- System Report ----------
+Process Name : IntelAudioService.exe
+Process ID(PID) : 4008
+Number of thread created by that process : 5
+
+__________________________________________________
+---------- System Report ----------
+Process Name : conhost.exe
+Process ID(PID) : 4020
+Number of thread created by that process : 5
+
+__________________________________________________
+---------- System Report ----------
+Process Name : jhi_service.exe
+Process ID(PID) : 4060
+Number of thread created by that process : 2
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 4100
+Number of thread created by that process : 7
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 4128
+Number of thread created by that process : 9
+
+__________________________________________________
+---------- System Report ----------
+Process Name : RtkAudUService64.exe
+Process ID(PID) : 4164
+Number of thread created by that process : 16
+
+__________________________________________________
+---------- System Report ----------
+Process Name : TbtP2pShortcutService.exe
+Process ID(PID) : 4176
+Number of thread created by that process : 3
+
+__________________________________________________
+---------- System Report ----------
+Process Name : RuntimeBroker.exe
+Process ID(PID) : 4204
+Number of thread created by that process : 16
+
+__________________________________________________
+---------- System Report ----------
+Process Name : Code.exe
+Process ID(PID) : 4220
+Number of thread created by that process : 26
+
+__________________________________________________
+---------- System Report ----------
+Process Name : WavesAudioService.exe
+Process ID(PID) : 4232
+Number of thread created by that process : 4
+
+__________________________________________________
+---------- System Report ----------
+Process Name : WavesSysSvc64.exe
+Process ID(PID) : 4248
+Number of thread created by that process : 27
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 4264
+Number of thread created by that process : 12
+
+__________________________________________________
+---------- System Report ----------
+Process Name : WMIRegistrationService.exe
+Process ID(PID) : 4304
+Number of thread created by that process : 2
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 4316
+Number of thread created by that process : 4
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 4328
+Number of thread created by that process : 8
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 4376
+Number of thread created by that process : 10
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 4616
+Number of thread created by that process : 8
+
+__________________________________________________
+---------- System Report ----------
+Process Name : Code.exe
+Process ID(PID) : 4668
+Number of thread created by that process : 26
+
+__________________________________________________
+---------- System Report ----------
+Process Name : AnyDesk.exe
+Process ID(PID) : 4708
+Number of thread created by that process : 10
+
+__________________________________________________
+---------- System Report ----------
+Process Name : msedgewebview2.exe
+Process ID(PID) : 4924
+Number of thread created by that process : 50
+
+__________________________________________________
+---------- System Report ----------
+Process Name : msedgewebview2.exe
+Process ID(PID) : 5028
+Number of thread created by that process : 10
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 5332
+Number of thread created by that process : 14
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 5376
+Number of thread created by that process : 6
+
+__________________________________________________
+---------- System Report ----------
+Process Name : powershell.exe
+Process ID(PID) : 5500
+Number of thread created by that process : 9
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 5660
+Number of thread created by that process : 4
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 5756
+Number of thread created by that process : 2
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 5768
+Number of thread created by that process : 9
+
+__________________________________________________
+---------- System Report ----------
+Process Name : IntelGraphicsSoftware.Service.exe
+Process ID(PID) : 5832
+Number of thread created by that process : 16
+
+__________________________________________________
+---------- System Report ----------
+Process Name : LockApp.exe
+Process ID(PID) : 5836
+Number of thread created by that process : 21
+
+__________________________________________________
+---------- System Report ----------
+Process Name : chrome.exe
+Process ID(PID) : 5956
+Number of thread created by that process : 9
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 6080
+Number of thread created by that process : 33
+
+__________________________________________________
+---------- System Report ----------
+Process Name : AggregatorHost.exe
+Process ID(PID) : 6312
+Number of thread created by that process : 2
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 6400
+Number of thread created by that process : 5
+
+__________________________________________________
+---------- System Report ----------
+Process Name : PresentMonService.exe
+Process ID(PID) : 6572
+Number of thread created by that process : 10
+
+__________________________________________________
+---------- System Report ----------
+Process Name : conhost.exe
+Process ID(PID) : 6580
+Number of thread created by that process : 2
+
+__________________________________________________
+---------- System Report ----------
+Process Name : msedge.exe
+Process ID(PID) : 6832
+Number of thread created by that process : 54
+
+__________________________________________________
+---------- System Report ----------
+Process Name : chrome.exe
+Process ID(PID) : 6980
+Number of thread created by that process : 20
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 7020
+Number of thread created by that process : 2
+
+__________________________________________________
+---------- System Report ----------
+Process Name : chrome.exe
+Process ID(PID) : 7180
+Number of thread created by that process : 21
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 7480
+Number of thread created by that process : 8
+
+__________________________________________________
+---------- System Report ----------
+Process Name : chrome.exe
+Process ID(PID) : 7636
+Number of thread created by that process : 10
+
+__________________________________________________
+---------- System Report ----------
+Process Name : Code.exe
+Process ID(PID) : 7660
+Number of thread created by that process : 7
+
+__________________________________________________
+---------- System Report ----------
+Process Name : OneDrive.exe
+Process ID(PID) : 7676
+Number of thread created by that process : 35
+
+__________________________________________________
+---------- System Report ----------
+Process Name : chrome.exe
+Process ID(PID) : 7800
+Number of thread created by that process : 23
+
+__________________________________________________
+---------- System Report ----------
+Process Name : powershell.exe
+Process ID(PID) : 7820
+Number of thread created by that process : 9
+
+__________________________________________________
+---------- System Report ----------
+Process Name : msedgewebview2.exe
+Process ID(PID) : 8044
+Number of thread created by that process : 9
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 8108
+Number of thread created by that process : 7
+
+__________________________________________________
+---------- System Report ----------
+Process Name : chrome.exe
+Process ID(PID) : 8180
+Number of thread created by that process : 19
+
+__________________________________________________
+---------- System Report ----------
+Process Name : dwm.exe
+Process ID(PID) : 8308
+Number of thread created by that process : 19
+
+__________________________________________________
+---------- System Report ----------
+Process Name : wlanext.exe
+Process ID(PID) : 8616
+Number of thread created by that process : 3
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 8872
+Number of thread created by that process : 2
+
+__________________________________________________
+---------- System Report ----------
+Process Name : RtkAudUService64.exe
+Process ID(PID) : 8928
+Number of thread created by that process : 8
+
+__________________________________________________
+---------- System Report ----------
+Process Name : MidiSrv.exe
+Process ID(PID) : 8932
+Number of thread created by that process : 3
+
+__________________________________________________
+---------- System Report ----------
+Process Name : msedgewebview2.exe
+Process ID(PID) : 8960
+Number of thread created by that process : 54
+
+__________________________________________________
+---------- System Report ----------
+Process Name : sihost.exe
+Process ID(PID) : 8984
+Number of thread created by that process : 11
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 9020
+Number of thread created by that process : 5
+
+__________________________________________________
+---------- System Report ----------
+Process Name : conhost.exe
+Process ID(PID) : 9132
+Number of thread created by that process : 5
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 9212
+Number of thread created by that process : 12
+
+__________________________________________________
+---------- System Report ----------
+Process Name : unsecapp.exe
+Process ID(PID) : 9304
+Number of thread created by that process : 3
+
+__________________________________________________
+---------- System Report ----------
+Process Name : msedgewebview2.exe
+Process ID(PID) : 9360
+Number of thread created by that process : 18
+
+__________________________________________________
+---------- System Report ----------
+Process Name : CodeSetup-stable-591199df409fbf59b4b52d5ad4ee0470152a9b31.exe
+Process ID(PID) : 9396
+Number of thread created by that process : 1
+
+__________________________________________________
+---------- System Report ----------
+Process Name : ShellExperienceHost.exe
+Process ID(PID) : 9540
+Number of thread created by that process : 17
+
+__________________________________________________
+---------- System Report ----------
+Process Name : Code.exe
+Process ID(PID) : 9768
+Number of thread created by that process : 26
+
+__________________________________________________
+---------- System Report ----------
+Process Name : python.exe
+Process ID(PID) : 9804
+Number of thread created by that process : 3
+
+__________________________________________________
+---------- System Report ----------
+Process Name : chrome.exe
+Process ID(PID) : 9860
+Number of thread created by that process : 19
+
+__________________________________________________
+---------- System Report ----------
+Process Name : RtkAudUService64.exe
+Process ID(PID) : 10048
+Number of thread created by that process : 9
+
+__________________________________________________
+---------- System Report ----------
+Process Name : conhost.exe
+Process ID(PID) : 10152
+Number of thread created by that process : 5
+
+__________________________________________________
+---------- System Report ----------
+Process Name : msedgewebview2.exe
+Process ID(PID) : 10164
+Number of thread created by that process : 22
+
+__________________________________________________
+---------- System Report ----------
+Process Name : Code.exe
+Process ID(PID) : 10192
+Number of thread created by that process : 17
+
+__________________________________________________
+---------- System Report ----------
+Process Name : chrome.exe
+Process ID(PID) : 10216
+Number of thread created by that process : 11
+
+__________________________________________________
+---------- System Report ----------
+Process Name : audiodg.exe
+Process ID(PID) : 10372
+Number of thread created by that process : 9
+
+__________________________________________________
+---------- System Report ----------
+Process Name : SecurityHealthSystray.exe
+Process ID(PID) : 10400
+Number of thread created by that process : 1
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 10568
+Number of thread created by that process : 13
+
+__________________________________________________
+---------- System Report ----------
+Process Name : SecurityHealthService.exe
+Process ID(PID) : 10796
+Number of thread created by that process : 9
+
+__________________________________________________
+---------- System Report ----------
+Process Name : SystemSettings.exe
+Process ID(PID) : 10824
+Number of thread created by that process : 38
+
+__________________________________________________
+---------- System Report ----------
+Process Name : chrome.exe
+Process ID(PID) : 10972
+Number of thread created by that process : 22
+
+__________________________________________________
+---------- System Report ----------
+Process Name : ctfmon.exe
+Process ID(PID) : 11036
+Number of thread created by that process : 12
+
+__________________________________________________
+---------- System Report ----------
+Process Name : MpDefenderCoreService.exe
+Process ID(PID) : 11440
+Number of thread created by that process : 9
+
+__________________________________________________
+---------- System Report ----------
+Process Name : MsMpEng.exe
+Process ID(PID) : 11448
+Number of thread created by that process : 43
+
+__________________________________________________
+---------- System Report ----------
+Process Name : chrome.exe
+Process ID(PID) : 11580
+Number of thread created by that process : 20
+
+__________________________________________________
+---------- System Report ----------
+Process Name : ApplicationFrameHost.exe
+Process ID(PID) : 11604
+Number of thread created by that process : 5
+
+__________________________________________________
+---------- System Report ----------
+Process Name : AppActions.exe
+Process ID(PID) : 11712
+Number of thread created by that process : 7
+
+__________________________________________________
+---------- System Report ----------
+Process Name : chrome.exe
+Process ID(PID) : 11824
+Number of thread created by that process : 19
+
+__________________________________________________
+---------- System Report ----------
+Process Name : RuntimeBroker.exe
+Process ID(PID) : 11832
+Number of thread created by that process : 3
+
+__________________________________________________
+---------- System Report ----------
+Process Name : msedgewebview2.exe
+Process ID(PID) : 11908
+Number of thread created by that process : 22
+
+__________________________________________________
+---------- System Report ----------
+Process Name : Code.exe
+Process ID(PID) : 11948
+Number of thread created by that process : 20
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 12056
+Number of thread created by that process : 4
+
+__________________________________________________
+---------- System Report ----------
+Process Name : RuntimeBroker.exe
+Process ID(PID) : 12080
+Number of thread created by that process : 4
+
+__________________________________________________
+---------- System Report ----------
+Process Name : msedge.exe
+Process ID(PID) : 12160
+Number of thread created by that process : 23
+
+__________________________________________________
+---------- System Report ----------
+Process Name : msedgewebview2.exe
+Process ID(PID) : 12172
+Number of thread created by that process : 21
+
+__________________________________________________
+---------- System Report ----------
+Process Name : chrome.exe
+Process ID(PID) : 12228
+Number of thread created by that process : 11
+
+__________________________________________________
+---------- System Report ----------
+Process Name : NisSrv.exe
+Process ID(PID) : 12232
+Number of thread created by that process : 4
+
+__________________________________________________
+---------- System Report ----------
+Process Name : SearchHost.exe
+Process ID(PID) : 12304
+Number of thread created by that process : 13
+
+__________________________________________________
+---------- System Report ----------
+Process Name : msedgewebview2.exe
+Process ID(PID) : 12336
+Number of thread created by that process : 20
+
+__________________________________________________
+---------- System Report ----------
+Process Name : M365Copilot.exe
+Process ID(PID) : 12556
+Number of thread created by that process : 32
+
+__________________________________________________
+---------- System Report ----------
+Process Name : Code.exe
+Process ID(PID) : 13032
+Number of thread created by that process : 21
+
+__________________________________________________
+---------- System Report ----------
+Process Name : pet.exe
+Process ID(PID) : 13332
+Number of thread created by that process : 1
+
+__________________________________________________
+---------- System Report ----------
+Process Name : msedgewebview2.exe
+Process ID(PID) : 13760
+Number of thread created by that process : 10
+
+__________________________________________________
+---------- System Report ----------
+Process Name : msedgewebview2.exe
+Process ID(PID) : 13852
+Number of thread created by that process : 8
+
+__________________________________________________
+---------- System Report ----------
+Process Name : FxSound.exe
+Process ID(PID) : 13904
+Number of thread created by that process : 3
+
+__________________________________________________
+---------- System Report ----------
+Process Name : chrome.exe
+Process ID(PID) : 14048
+Number of thread created by that process : 20
+
+__________________________________________________
+---------- System Report ----------
+Process Name : fontdrvhost.exe
+Process ID(PID) : 14116
+Number of thread created by that process : 5
+
+__________________________________________________
+---------- System Report ----------
+Process Name : conhost.exe
+Process ID(PID) : 14144
+Number of thread created by that process : 2
+
+__________________________________________________
+---------- System Report ----------
+Process Name : OneDrive.Sync.Service.exe
+Process ID(PID) : 14204
+Number of thread created by that process : 15
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 14272
+Number of thread created by that process : 9
+
+__________________________________________________
+---------- System Report ----------
+Process Name : Code.exe
+Process ID(PID) : 14404
+Number of thread created by that process : 17
+
+__________________________________________________
+---------- System Report ----------
+Process Name : msedgewebview2.exe
+Process ID(PID) : 14444
+Number of thread created by that process : 20
+
+__________________________________________________
+---------- System Report ----------
+Process Name : msedgewebview2.exe
+Process ID(PID) : 14480
+Number of thread created by that process : 23
+
+__________________________________________________
+---------- System Report ----------
+Process Name : chrome.exe
+Process ID(PID) : 14772
+Number of thread created by that process : 7
+
+__________________________________________________
+---------- System Report ----------
+Process Name : chrome.exe
+Process ID(PID) : 14916
+Number of thread created by that process : 23
+
+__________________________________________________
+---------- System Report ----------
+Process Name : Notepad.exe
+Process ID(PID) : 15004
+Number of thread created by that process : 18
+
+__________________________________________________
+---------- System Report ----------
+Process Name : taskhostw.exe
+Process ID(PID) : 15044
+Number of thread created by that process : 8
+
+__________________________________________________
+---------- System Report ----------
+Process Name : StartMenuExperienceHost.exe
+Process ID(PID) : 15144
+Number of thread created by that process : 18
+
+__________________________________________________
+---------- System Report ----------
+Process Name : unsecapp.exe
+Process ID(PID) : 15244
+Number of thread created by that process : 3
+
+__________________________________________________
+---------- System Report ----------
+Process Name : conhost.exe
+Process ID(PID) : 15300
+Number of thread created by that process : 2
+
+__________________________________________________
+---------- System Report ----------
+Process Name : msedge.exe
+Process ID(PID) : 15336
+Number of thread created by that process : 10
+
+__________________________________________________
+---------- System Report ----------
+Process Name : CrossDeviceResume.exe
+Process ID(PID) : 15452
+Number of thread created by that process : 6
+
+__________________________________________________
+---------- System Report ----------
+Process Name : msedgewebview2.exe
+Process ID(PID) : 15532
+Number of thread created by that process : 8
+
+__________________________________________________
+---------- System Report ----------
+Process Name : igfxEMN.exe
+Process ID(PID) : 15636
+Number of thread created by that process : 3
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 15800
+Number of thread created by that process : 3
+
+__________________________________________________
+---------- System Report ----------
+Process Name : winlogon.exe
+Process ID(PID) : 15816
+Number of thread created by that process : 4
+
+__________________________________________________
+---------- System Report ----------
+Process Name : python.exe
+Process ID(PID) : 15972
+Number of thread created by that process : 1
+
+__________________________________________________
+---------- System Report ----------
+Process Name : msedge.exe
+Process ID(PID) : 16004
+Number of thread created by that process : 7
+
+__________________________________________________
+---------- System Report ----------
+Process Name : pet.exe
+Process ID(PID) : 16164
+Number of thread created by that process : 1
+
+__________________________________________________
+---------- System Report ----------
+Process Name : WavesSvc64.exe
+Process ID(PID) : 16376
+Number of thread created by that process : 42
+
+__________________________________________________
+---------- System Report ----------
+Process Name : Code.exe
+Process ID(PID) : 16416
+Number of thread created by that process : 19
+
+__________________________________________________
+---------- System Report ----------
+Process Name : csrss.exe
+Process ID(PID) : 16488
+Number of thread created by that process : 14
+
+__________________________________________________
+---------- System Report ----------
+Process Name : msedgewebview2.exe
+Process ID(PID) : 17044
+Number of thread created by that process : 50
+
+__________________________________________________
+---------- System Report ----------
+Process Name : chrome.exe
+Process ID(PID) : 17172
+Number of thread created by that process : 23
+
+__________________________________________________
+---------- System Report ----------
+Process Name : msedgewebview2.exe
+Process ID(PID) : 17244
+Number of thread created by that process : 20
+
+__________________________________________________
+---------- System Report ----------
+Process Name : Code.exe
+Process ID(PID) : 17252
+Number of thread created by that process : 57
+
+__________________________________________________
+---------- System Report ----------
+Process Name : Code.exe
+Process ID(PID) : 17304
+Number of thread created by that process : 25
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 17456
+Number of thread created by that process : 6
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 17752
+Number of thread created by that process : 8
+
+__________________________________________________
+---------- System Report ----------
+Process Name : Code.exe
+Process ID(PID) : 17808
+Number of thread created by that process : 34
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 17848
+Number of thread created by that process : 3
+
+__________________________________________________
+---------- System Report ----------
+Process Name : chrome.exe
+Process ID(PID) : 17852
+Number of thread created by that process : 20
+
+__________________________________________________
+---------- System Report ----------
+Process Name : WidgetService.exe
+Process ID(PID) : 17932
+Number of thread created by that process : 5
+
+__________________________________________________
+---------- System Report ----------
+Process Name : Code.exe
+Process ID(PID) : 17956
+Number of thread created by that process : 25
+
+__________________________________________________
+---------- System Report ----------
+Process Name : Widgets.exe
+Process ID(PID) : 17984
+Number of thread created by that process : 10
+
+__________________________________________________
+---------- System Report ----------
+Process Name : chrome.exe
+Process ID(PID) : 18024
+Number of thread created by that process : 24
+
+__________________________________________________
+---------- System Report ----------
+Process Name : RuntimeBroker.exe
+Process ID(PID) : 18124
+Number of thread created by that process : 18
+
+__________________________________________________
+---------- System Report ----------
+Process Name : chrome.exe
+Process ID(PID) : 18156
+Number of thread created by that process : 14
+
+__________________________________________________
+---------- System Report ----------
+Process Name : dptf_helper.exe
+Process ID(PID) : 18208
+Number of thread created by that process : 4
+
+__________________________________________________
+---------- System Report ----------
+Process Name : chrome.exe
+Process ID(PID) : 18408
+Number of thread created by that process : 22
+
+__________________________________________________
+---------- System Report ----------
+Process Name : Code.exe
+Process ID(PID) : 18508
+Number of thread created by that process : 18
+
+__________________________________________________
+---------- System Report ----------
+Process Name : CodeSetup-stable-591199df409fbf59b4b52d5ad4ee0470152a9b31.tmp
+Process ID(PID) : 18672
+Number of thread created by that process : 2
+
+__________________________________________________
+---------- System Report ----------
+Process Name : svchost.exe
+Process ID(PID) : 18720
+Number of thread created by that process : 4
+
+__________________________________________________
+---------- System Report ----------
+Process Name : powershell.exe
+Process ID(PID) : 19100
+Number of thread created by that process : 9
+
+__________________________________________________
+---------- System Report ----------
+Process Name : powershell.exe
+Process ID(PID) : 19152
+Number of thread created by that process : 12
+
+__________________________________________________
+---------- System Report ----------
+Process Name : chrome.exe
+Process ID(PID) : 19400
+Number of thread created by that process : 19
+
+__________________________________________________
+---------- System Report ----------
+Process Name : dllhost.exe
+Process ID(PID) : 20372
+Number of thread created by that process : 2
+
+__________________________________________________
