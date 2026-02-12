@@ -1,8 +1,15 @@
+# Add Open Files Monitoring Feature: For each process, display:
+# Number of files opened by the process
+
+# Requirement
+# Count open file descriptors using system/library calls
+# Handle permission errors properly
+# Mention “Access Denied” in log if required
+
 import sys
 import schedule
 import time
 import psutil
-
 
 def createLog(fileName):
 
@@ -43,7 +50,6 @@ def createLog(fileName):
     fobj.write(border + "\n")
 
     fobj.close()
-
 
 def main():
 
@@ -88,7 +94,6 @@ def main():
     print(border)
     print("--------- Thank you for using our script ---------")
     print(border)
-
 
 if __name__ == "__main__":
     main()
