@@ -1,3 +1,10 @@
+# Add Actual Memory Allocation Feature: Display real memory usage of each process:
+# RSS (Resident Set Size – actual RAM used)
+# VMS (Virtual Memory)
+# Memory Percentage
+
+# Requirement: Show: Top 10 memory consuming processes
+
 import sys
 import time
 import psutil
@@ -50,13 +57,11 @@ def createLog(fileName):
 
     fobj.close()
 
-
 def main():
     border="_"*50
     print(border)
     print("---------- Memory Allocation Feature ----------")
     print(border)
-
 
     if len(sys.argv) == 2:
         if sys.argv[1] == "--u" or sys.argv[1] == "--U":
