@@ -1,3 +1,6 @@
+# Email Notification: a)Send an email after completion of backup
+# b)Attach:Log file and Zip file
+
 import os
 import time
 import shutil
@@ -10,9 +13,9 @@ from email.message import EmailMessage
 
 
 # ---------------- EMAIL CONFIG ----------------
-SENDER_EMAIL = "aalegaonkar712@gmail.com"
-APP_PASSWORD = "usqf hulf ncfd zicl"   # Gmail app password
-RECEIVER_EMAIL = "abnave712@gmail.com"
+SENDER_EMAIL = ""
+APP_PASSWORD = ""   # Gmail app password
+RECEIVER_EMAIL = ""
 # ---------------------------------------------
 
 

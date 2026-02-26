@@ -1,3 +1,17 @@
+# Add Periodic Email Reporting Feature :Automatically send a report through email at regular intervals.
+# Email must contain: 1)Log file attachment 2)Summary of: 
+# a)Total processes b)Top CPU usage processes c)Top Memory usage processes d)Top Thread count processes
+# e)Top Open file processes
+
+# Usage
+# python MonitorSurveillance.py "MarvellousInfosys" "receiver@gmail.com" 10
+
+# Where: MarvellousInfosys – log file name
+# receiver@gmail.com:  – receiver email : 10 – interval in minutes
+
+# Expected Output in Log File: Each process entry should include:
+# a)Process Name, b)PID, c)CPU %, d)Memory (RSS), e)Threads Count, f)Open Files Count, g)Timestamp
+
 import os
 import sys
 import time
@@ -7,8 +21,8 @@ from email.message import EmailMessage
 from datetime import datetime
 
 # ---------------- EMAIL CONFIG ----------------
-SENDER_EMAIL = "aalegaonkar712@gmail.com"
-APP_PASSWORD = "usqf hulf ncfd zicl"   # Gmail app password
+SENDER_EMAIL = ""
+APP_PASSWORD = ""   # Gmail app password
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 465
 # ----------------------------------------------
