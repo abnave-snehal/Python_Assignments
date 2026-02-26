@@ -1,4 +1,4 @@
-# 2. Write a program to: 1) Display total number of students in the dataset
+# Write a program to: 1) Display total number of students in the dataset
 # 2) Count how many students Passed (FinalResult = 1)
 # 3) Count how many students Failed (FinalResult = 0)
 

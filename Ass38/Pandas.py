@@ -1,4 +1,4 @@
-# 1. Write a Python program to load the file student_performance_m1.csv using pandas. 
+# Write a Python program to load the file student_performance_m1.csv using pandas. 
 # Display: 1)First 5 records 2)Last 5 records 3)Total number of rows and columns
 # 4)List of column names 5)Data types of each column
 
