@@ -7,10 +7,9 @@ data=[
     ("C",3,1,"Blue"),
     ("D",6,5,"Blue")
 ]
-# input from user
-X=int(input("Enter X coordiante : "))
-Y=int(input("Enter Y coordinate : "))
-K=5
+# New points
+X=2
+Y=2
 
 distances=[]
 
@@ -21,25 +20,21 @@ for point in data:
     distances.append((name,distance,label))
 
 # Step 2 sort distance
-distances.sort(key=lambda d:d[1])
+distances.sort(key=lambda x: x[1])
 
 # Setp 3 selece K nearest neighbor
-neighbor=distances[:K]
+k_values=[1,3,5]
 
-print("\nNearest Neighbour")
+print("Prdicted Values : ")
 
-for n in neighbor:
-    print(f"{n[0]}- Distance {round(n[1],2)}")
+for k in k_values:
+    neighbour=distances[:k]
 
-# Step 4 Majoring votes
-votes={}
-
-for n in neighbor:
-    label=n[2]
-    votes[label]=votes.get(label,0) + 1
-
-predicted_class=max(votes,key=votes.get)
-
-print("\nPredicted Class : ",predicted_class)
-
-
+    votes = {}
+    for n in neighbour:
+        label = n[2]
+        votes[label] = votes.get(label,0)+1
+    
+    prediction = max(votes, key=votes.get)
+    
+    print("K =",k,"→",prediction)
